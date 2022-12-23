@@ -5,20 +5,24 @@ export const zhNavbar = navbar([
   "/",
   { text: "案例", icon: "discover", link: "/zh/demo/" },
   {
-    text: "指南",
+    text: "正文",
     icon: "creative",
-    prefix: "/zh/guide/",
+    prefix: "/",
     children: [
       {
-        text: "Bar",
-        icon: "creative",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "more", link: "" }],
+        text: "目录",
+        link: "/",
       },
       {
-        text: "Foo",
+        text: "电动篇",
+        icon: "creative",
+        prefix: "1A/",
+        children: ["01.md", "02.md", "03.md", "04.md"],
+      },
+      {
+        text: "生活篇",
         icon: "config",
-        prefix: "foo/",
+        prefix: "1B/",
         children: ["ray", { text: "...", icon: "more", link: "" }],
       },
     ],
