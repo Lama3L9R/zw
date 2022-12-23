@@ -13,10 +13,18 @@ actions:
   - text: 柚子社快速通道
     link: /1A/01.md
 features:
-  - title: Markdown 增强
-    icon: markdown
-    details: 新增文字对齐、上下角标、脚注、标记、任务列表、数学公式、流程图、图表与幻灯片支持
-    link: https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/
+  - title: 小小年纪玩什么废萌
+    details: 尊敬的朱老师在课堂上（向同学们）教导道：「小小年纪玩什么废萌。」
+    link: /1A/01.md
+  - title: 你们柚子厨真恶心
+    details: 尊敬的朱老师在课堂上（向某柚子厨）说道：「你们柚子厨真恶心。」
+    link: /1A/02.md
+  - title: 您还没过玩柚子的年龄
+    details: 一个学生（柚子厨真恶心）对敬爱的朱老师说：「朱老师您还没过玩柚子的年龄。」，朱老师将手放在脸上无语的回答道：「我真的...看到就...」
+    link: /1A/03.md
+  - title: 你都多大人了还玩柚子
+    details: 尊敬的朱老师在课堂上向某个柚子厨说道：「你都多大人了还玩柚子？」
+    link: /1A/04.md
 copyright: false
 footer: 基于 <a href="https://github.com/Lama3L9R/ZhuWords" target="_blank">Lama3L9R/ZhuWords</a> | Project By Lama | MIT 协议, 版权所有 © 2022-present <a href="https://nofated.win" target="_blank">Nofated</a>
 ---
