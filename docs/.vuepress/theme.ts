@@ -19,7 +19,7 @@ export default hopeTheme({
 
   repo: "Nofated095/zw",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "/",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
@@ -34,7 +34,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "Project By Lama | MIT 协议, 版权所有 © 2022-present Nofated & Lama",
 
       displayFooter: true,
 
@@ -56,7 +56,8 @@ export default hopeTheme({
     // If you don’t need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
     // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
-//    comment: {
+    /**
+    comment: {
       /**
        * Using Giscus
        */
@@ -75,9 +76,11 @@ export default hopeTheme({
       /**
        * Using Waline
        */
- //     provider: "Waline",
- //     serverURL: "https://vuepress-theme-hope-comment.vercel.app",
-//    },
+      /**
+     provider: "Waline",
+     serverURL: "https://comment.9595095.xyz",
+    },
+     */
 
     // Disable features you don’t want here
     mdEnhance: {
