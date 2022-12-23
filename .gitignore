@@ -4,3 +4,4 @@ package-lock.json
 .DS_Store
 /docs/.vuepress/.cache
 /docs/.vuepress/.temp
+/dist
