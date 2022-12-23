@@ -9,11 +9,12 @@ export default defineUserConfig({
   dest: "./dist",
 
   locales: {
+    /** 
     "/en": {
       lang: "en-US",
       title: "Docs Demo",
       description: "A docs demo for vuepress-theme-hope",
-    },
+    },*/
     "/": {
       lang: "zh-CN",
       title: "朱语",

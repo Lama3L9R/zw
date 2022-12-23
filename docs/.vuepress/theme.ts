@@ -36,7 +36,7 @@ export default hopeTheme({
 
       footer: "Project By Lama | MIT 协议, 版权所有 © 2022-present Nofated & Lama",
 
-      displayFooter: true,
+      displayFooter: false,
 
       // page meta
       metaLocales: {
