@@ -17,7 +17,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "Nofated095/zw",
 
   docsDir: "demo/theme-docs/src",
 

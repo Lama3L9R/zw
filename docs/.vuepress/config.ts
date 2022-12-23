@@ -9,15 +9,15 @@ export default defineUserConfig({
   dest: "./dist",
 
   locales: {
-    "/": {
+    "/en": {
       lang: "en-US",
       title: "Docs Demo",
       description: "A docs demo for vuepress-theme-hope",
     },
-    "/zh/": {
+    "/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "朱语",
+      description: "《朱语》是一部收集了朱老师名言的一本书，无论是在物理学还是哲学上都会给人很大的启发，引人深思，耐人回味。",
     },
   },
 
