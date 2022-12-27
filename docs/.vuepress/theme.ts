@@ -1,5 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import {zhNavbar } from "./navbar/index.js";
+import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 const hostname =
@@ -19,7 +19,7 @@ export default hopeTheme({
 
   repo: "Nofated095/zw",
 
-  docsDir: "/",
+  docsDir: "/docs",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
