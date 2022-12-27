@@ -21,7 +21,7 @@ export const zhSidebar = sidebar({
     },
     {
       text: "人生哲理篇",
-      icon: "creative",
+      icon: "more",
       prefix: "1C/",
       children: ["01.md"],
     },
