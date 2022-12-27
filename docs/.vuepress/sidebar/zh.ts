@@ -19,5 +19,11 @@ export const zhSidebar = sidebar({
       prefix: "1B/",
       children: ["01.md", "02.md", "03.md", "04.md", "05.md", "06.md", "07.md", "08.md", "09.md", "10.md"],
     },
+    {
+      text: "人生哲理篇",
+      icon: "creative",
+      prefix: "1C/",
+      children: ["01.md"],
+    },
   ],
 });
