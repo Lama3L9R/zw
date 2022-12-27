@@ -25,5 +25,11 @@ export const zhSidebar = sidebar({
       prefix: "1C/",
       children: ["01.md"],
     },
+    {
+      text: "祝福篇",
+      icon: "more",
+      prefix: "1D/",
+      children: ["01.md"],
+    },
   ],
 });
