@@ -3,6 +3,7 @@ home: true
 icon: home
 title: 朱语
 heroImage: /logo.png
+heroImageDark: /darklogo.svg
 heroText: []
 tagline: []
 actions:
