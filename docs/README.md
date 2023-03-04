@@ -27,7 +27,7 @@ features:
     details: 尊敬的朱老师在课堂上向某个柚子厨说道：「你都多大人了还玩柚子？」
     link: /1A/04.md
 copyright: false
-footer: 基于 <a href="https://github.com/Lama3L9R/ZhuWords" target="_blank">Lama3L9R/ZhuWords</a> | Project By Lama | MIT 协议, 版权所有 © 2022-present <a href="https://nofated.win" target="_blank">Nofated</a>
+footer: 基于 <a href="https://github.com/Lama3L9R/ZhuWords" target="_blank">Lama3L9R/ZhuWords</a> | Project By @lamadaemon | MIT 协议, 版权所有 © 2022-present <a href="https://nofated.win" target="_blank">Nofated</a>
 ---
 
 **《朱语》** 是一部收集了朱老师名言的一本书，无论是在物理学还是哲学上都会给人很大的启发，引人深思，耐人回味。本书不适于低于 `114514.1919810` 岁以下儿童查看。
