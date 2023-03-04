@@ -3,7 +3,7 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 const hostname =
-  process.env.HOSTNAME || "https://zw.9595095.xyz";
+  process.env.HOSTNAME || "https://zw.lama.icu";
 
 export default hopeTheme({
   hostname,
@@ -34,7 +34,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "Project By Nofated & Lama | MIT 协议, 版权所有 © 2022-present Nofated & Lama",
+      footer: "Project By Nofated & Lama | MIT 协议, 版权所有 © 2022-present Nofated & @lamadaemon",
 
       displayFooter: false,
 
