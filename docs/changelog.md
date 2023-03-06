@@ -1,6 +1,6 @@
 ---
 title: 更新日志
-author: Lama
+author: Lama & Nofated
 tag: 更新日志
 ---
 
@@ -8,15 +8,15 @@ tag: 更新日志
 
 ## 2023.03.04 添加新功能，提升编辑体验
 
-经过lama的长达三分钟的全局搜索（搜vsc全局搜索快捷键搜了三分钟的lama就是逊啦），才找到了添加sidemenu的地方，仔细一看我的天哪，原来都是手动的。
+经过 lama 的长达三分钟的全局搜索（搜 VSCode 全局搜索快捷键搜了三分钟的 lama 就是逊啦），才找到了添加 sidebar 的地方，仔细一看我的天哪，原来都是手动的。
 
 $$
 \huge{\textbf{\textit{这可不行！}}}
 $$
 
-> *latex 数学插件竟然支持 \textbf 和 \textit*
+> *LaTex 数学插件竟然支持 \textbf 和 \textit*。
 
-于是写了一行代码自动化了这个流程，以后只需要在docs/1A 1B 1C 1D里面写文章即可，不再需要额外操作了！但是如果需要添加分区，则需要修改 docs/.vurepress/categories.ts
+于是写了一行代码自动化了这个流程，以后只需要在 `docs/1A 1B 1C 1D` 里面写文章即可，不再需要额外操作了！但是如果需要添加分区，则需要修改 `docs/.vurepress/categories.ts`。
 
 修改方法也很简单，使用下面模板向数组内添加一条就行
 
