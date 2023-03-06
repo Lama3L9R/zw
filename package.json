@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "vuepress": "2.0.0-beta.60",
-    "vuepress-theme-hope": "2.0.0-beta.178",
+    "vuepress-theme-hope": "2.0.0-beta.189",
     "vuepress-vite": "2.0.0-beta.60"
   },
   "main": "index.ts",
