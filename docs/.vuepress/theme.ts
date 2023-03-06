@@ -34,7 +34,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "Project By Nofated & Lama | MIT 协议, 版权所有 © 2022-present Nofated & @lamadaemon",
+      footer: "Project By Nofated & @lamadaemon | MIT 协议, 版权所有 © 2022-present Nofated & @lamadaemon",
 
       displayFooter: false,
 
@@ -94,8 +94,8 @@ export default hopeTheme({
       figure: true,
       flowchart: true,
       gfm: true,
-      imageLazyload: true,
-      imageSize: true,
+      imgLazyload: true,
+      imgSize: true,
       include: true,
       katex: true,
       mark: true,
