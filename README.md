@@ -1,5 +1,4 @@
 # 朱语
-![TeamCity build status](https://tc.lama.icu/app/rest/builds/buildType:id:ZhuWordsNew_Build/statusIcon.svg)
 
 >《朱语》是一部收集了朱老师名言的一本书。本书不适于低于 114514.1919810 岁以下儿童查看。
 
