@@ -9,8 +9,8 @@ export default hopeTheme({
   hostname,
 
   author: {
-    name: "Nofated",
-    url: "https://nofated.win",
+    name: "Nofated095",
+    url: "https://github.com/Nofated095",
   },
 
   iconAssets: "iconfont",
@@ -34,7 +34,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "Project By Nofated & @lamadaemon | MIT 协议, 版权所有 © 2022-present Nofated & @lamadaemon",
+      footer: "Project By @Nofated095 & @lamadaemon | MIT 协议, 版权所有 © 2022-present @Nofated095 & @lamadaemon",
 
       displayFooter: false,
 
@@ -189,8 +189,8 @@ export default hopeTheme({
     },
 
     seo:
-      hostname === "https://vuepress-theme-hope.github.io"
+      hostname === "https://zw.lama.icu"
         ? {}
-        : { canonical: "https://vuepress-theme-hope.github.io/docs-demo/" },
+        : { canonical: "https://zw.lama.icu/docs/" },
   },
 });
