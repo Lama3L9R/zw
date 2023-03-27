@@ -4,7 +4,9 @@ const categories: { directory: string, displayName: string, filter?: (file: stri
     { directory: '1B/', displayName: "生活篇" },
     { directory: '1C/', displayName: "人生哲理篇" },
     { directory: '1D/', displayName: "祝福篇" },
-    { directory: '1E/', displayName: "外星人篇" }
+    { directory: '1E/', displayName: "外星人篇" },
+    { directory: '1F/', displayName: "太君篇" },
+
 ]
 
 export default categories
